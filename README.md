@@ -6,12 +6,8 @@
     - 파일 다운로드 후 설치 
 2. pip를 이용하여 라이브러리 설치 
     - **명령 프롬프트** 실행 
-    - ```sh 
-    pip install PyQt5
-    ```
+    - ```sh pip install PyQt5```
 3. main.py를 실행
     - **명령 프롬프트** 실행 
     - main.py 파일이 존재하는 경로로 이동 (cd 경로명)
-    - python을 이용하여 main.py 실행 ```sh 
-    python main.py
-    ```
+    - python을 이용하여 main.py 실행 ```sh python main.py```
